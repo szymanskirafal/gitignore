@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
@@ -77,3 +78,8 @@ by automatically forking the project and prompting to send a pull request too.
 ## License
 
 [MIT](./LICENSE).
+=======
+# nieprzegap
+
+Przymiarka do zbudowania aplikacji
+>>>>>>> 201ba9ac68f88247a2e82412630a00f06e887ac4
